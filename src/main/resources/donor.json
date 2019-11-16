@@ -1,0 +1,10 @@
+ {
+    "donorId": 1,
+    "firstName": "Somnath",
+    "lastName": "Musib",
+    "bloodGroup": "A+",
+    "contactNo": "9876543210",
+    "dateOfBirth": "1994-10-10",
+    "emergencyContactNo": "87654320",
+    "firstTimeDonor": false
+  }
